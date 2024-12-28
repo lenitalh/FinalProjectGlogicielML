@@ -1,0 +1,3 @@
+File,Version,Insertion,Deletion,hCounterV,bugFixCounter,hCounterB4V,devCounter,devCounterB4,avgbtwhDays,avgbtwhDaysPlus,expertiseAvg,expertiseMin,codechangedV,codechangedB4
+standalone-metastore/metastore-server/src/test/java/org/apache/hadoop/hive/metastore/security/TestTokenStoreDelegationTokenSecretManager.java,2.3.5,0,0,0,0,0,0,0,0,0,0,0,0,0
+standalone-metastore/metastore-server/src/main/java/org/apache/hadoop/hive/metastore/security/TokenStoreDelegationTokenSecretManager.java,2.3.5,0,0,0,0,9,0,1,0,0,0,0,0,0

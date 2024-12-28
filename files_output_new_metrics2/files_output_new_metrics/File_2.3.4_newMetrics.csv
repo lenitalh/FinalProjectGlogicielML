@@ -1,0 +1,9 @@
+File,Version,Insertion,Deletion,hCounterV,bugFixCounter,hCounterB4V,devCounter,devCounterB4,avgbtwhDays,avgbtwhDaysPlus,expertiseAvg,expertiseMin,codechangedV,codechangedB4
+ql/src/java/org/apache/hadoop/hive/ql/session/SessionState.java,2.3.4,55,10,17,0,98,12,39,4,7,142,1,0,0
+ql/src/test/org/apache/hadoop/hive/ql/session/TestSessionState.java,2.3.4,0,0,0,0,8,0,7,0,97,0,0,0,1
+ql/src/test/org/apache/hadoop/hive/metastore/TestTablesListByFilter.java,2.3.4,0,0,0,0,0,0,0,0,0,0,0,0,0
+standalone-metastore/metastore-server/src/main/java/org/apache/hadoop/hive/metastore/DatabaseProduct.java,2.3.4,0,0,3,0,7,2,2,73,73,56,11,1,1
+standalone-metastore/metastore-server/src/main/java/org/apache/hadoop/hive/metastore/parser/ExpressionTree.java,2.3.4,0,0,3,0,10,1,1,0,0,11,11,1,1
+standalone-metastore/metastore-common/src/main/java/org/apache/hadoop/hive/metastore/HiveMetaStoreClient.java,2.3.4,0,0,27,0,143,9,9,7,7,119,7,3,3
+standalone-metastore/metastore-server/src/main/java/org/apache/hadoop/hive/metastore/ObjectStore.java,2.3.4,0,0,44,0,212,9,9,1,1,113,2,10,10
+standalone-metastore/metastore-server/src/test/java/org/apache/hadoop/hive/metastore/TestObjectStore.java,2.3.4,0,0,10,0,45,3,3,0,0,0,0,0,0

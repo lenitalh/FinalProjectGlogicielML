@@ -1,0 +1,2 @@
+File,Version,Insertion,Deletion,hCounterV,bugFixCounter,hCounterB4V,devCounter,devCounterB4,avgbtwhDays,avgbtwhDaysPlus,expertiseAvg,expertiseMin,codechangedV,codechangedB4
+ql/src/java/org/apache/hadoop/hive/ql/exec/Registry.java,2.3.9,20,17,2,0,29,2,21,0,0,0,0,0,0

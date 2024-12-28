@@ -1,0 +1,2 @@
+File,Version,Insertion,Deletion,hCounterV,bugFixCounter,hCounterB4V,devCounter,devCounterB4,avgbtwhDays,avgbtwhDaysPlus,expertiseAvg,expertiseMin,codechangedV,codechangedB4
+common/src/java/org/apache/hadoop/hive/conf/HiveConf.java,2.3.7,394,79,93,5,833,36,113,0,0,0,0,0,0
